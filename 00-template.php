@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TEmplates</title>
+    <title>Template</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
@@ -18,10 +18,10 @@
                     <path stroke-linecap="round" stroke-linejoin="round" d="M9 15L3 9m0 0l6-6M3 9h12a6 6 0 010 12h-3" />
                 </svg>
             </a>
-            <h1 class="text-2xl hover:scale-95 transition-all">Templates</h1>
+            <h1 class="text-2xl hover:scale-95 transition-all">Class</h1>
         </header>
         <section class="max-h-[500px] overflow-y-auto m-4">
-           
+        
         </section>
     </main>
     <script src="js/tailwind 3.2.4.js"></script>
